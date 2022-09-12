@@ -1,0 +1,16 @@
+{
+  "name": "vivace-doc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xiumubai/vivace-doc.git",
+  "author": "xiumubai <1547702880@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.13"
+  }
+}
