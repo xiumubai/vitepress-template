@@ -24,4 +24,4 @@ jobs:
           BRANCH: master
           FOLDER: docs/.vitepress/dist
           REPOSITORY_NAME: xiumubai/xiumubai.github.io # 这是我的 github page 仓库
-          TARGET_FOLDER: vitepress-demo # 打包的文件将放到静态服务器 vitepress-demo 目录下
+          TARGET_FOLDER: / # 打包的文件将放到静态服务器 根目录下
