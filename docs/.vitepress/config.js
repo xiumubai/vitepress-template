@@ -10,6 +10,7 @@ import sidebarDemo from './sidebar/demo';
 
 module.exports = {
   title: 'vivace',
+  baase: '/vitepress-demo/',
   description: 'frontend docs',
   lastUpdated: true,
   head: [
